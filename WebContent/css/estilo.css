@@ -1,0 +1,25 @@
+.center{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+.bg-black{
+	background: #000;
+}
+
+.img-controle{
+	width: 250px;
+	height: 100px; 
+}
+
+.bg-amarelo{
+	background: #ffd24d;
+}
+
+.p{
+	text-align: center;
+	text-decoration: none;
+	font-style: italic;
+	font-size: 30px;
+}
